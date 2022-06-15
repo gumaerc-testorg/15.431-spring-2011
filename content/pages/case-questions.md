@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides case questions to guide the preparation of memoranda
+  for each of the cases assigned in class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Case Questions
