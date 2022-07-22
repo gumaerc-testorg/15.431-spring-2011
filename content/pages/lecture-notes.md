@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes from selected sessions.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 0d360ec4-9180-67ae-f9ca-93a99c185124
 ---
@@ -60,7 +65,7 @@ DermaCare
 Discounted cash flow (DCF) and the venture capital method
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_431s11_lec01))
+({{% resource_link 4a2e49e2-bb9d-4dbf-e0bb-7b89cccb1016 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +89,7 @@ Netflix
 Real option valuation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_431s11_lec05))
+({{% resource_link 087effe6-09c8-c7c5-97ba-8c92f86d11ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Genzyme/Geltex
 Deal structure
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_431s11_lec08))
+({{% resource_link c4f24465-da48-2576-2232-032699d7a132 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Walnut Venture Associates (A) and (D)
 Deal structure (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_431s11_lec10))
+({{% resource_link eaea828a-7b13-f14d-ad43-46961a018071 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +299,7 @@ Initial public offering (IPO)
 Guest: Michael Szeto (Managing Director of Private Equity, WR Hambrecht)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0MB]({{< baseurl >}}/resources/mit15_431s11_lec20)) (Courtesy of Michael Szeto. Used with permission.)
+({{% resource_link fd1e26cd-4266-ff11-f6c8-e1fbfd3019f3 "PDF - 1.0MB" %}}) (Courtesy of Michael Szeto. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +312,7 @@ Grand Junction
 Guest: Michael Szeto (Managing Director of Private Equity, WR Hambrecht)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_431s11_lec21)) (Courtesy of Michael Szeto. Used with permission.)
+({{% resource_link 9e690c8e-b9e0-0575-584e-b32f0938c433 "PDF" %}}) (Courtesy of Michael Szeto. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,7 +336,7 @@ Blackstone
 Final review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_431s11_lec23))
+({{% resource_link 2d67bd87-0331-3fac-26d6-bc226396b7de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

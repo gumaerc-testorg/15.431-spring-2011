@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides information on the readings assigned for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 30645d3a-dc9e-7407-7cf9-c916da8854b0
 ---
 
-[Case Questions]({{< baseurl >}}/pages/case-questions) are provided to guide your reading of the case studies listed below.
+{{% resource_link 86d28b06-19b4-0ef2-c586-aafc335723ed "Case Questions" %}} are provided to guide your reading of the case studies listed below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -260,7 +264,7 @@ Guest: Carl Stjernfeldt (General Partner, Castile Ventures)
 {{< tdopen >}}
 
 
-VC Vignette: Secursiv Networks ([PDF]({{< baseurl >}}/resources/mit15_431s11_read17)) (Courtesy of Carl Stjernfeldt. Used with permission.)
+VC Vignette: Secursiv Networks ({{% resource_link 1177566d-bfae-2dfc-d120-7bd4a396f960 "PDF" %}}) (Courtesy of Carl Stjernfeldt. Used with permission.)
 
 Glynn Jr., John W., and Christopher S. Flanagan. "VC Vignettes." Stanford Graduate School of Business Case. Harvard Business School Publishing. Case: E93, June 21, 2001.
 
